@@ -1,7 +1,7 @@
 
-# Travel Explorer App
+# Travel planning App
 
-Travel Explorer is a user-friendly web application that allows users to explore various travel destinations, discover popular attractions, and view real-time weather information using Google Maps and a Weather API. Whether you're planning a vacation or simply looking to discover new places, Travel Explorer provides a convenient platform to help you make informed decisions and enhance your travel experiences.
+Travel planning is a user-friendly web application that allows users to explore various travel destinations, discover popular attractions, and view real-time weather information using Google Maps and a Weather API. Whether you're planning a vacation or simply looking to discover new places, Travel planning provides a convenient platform to help you make informed decisions and enhance your travel experiences.
 
 ## Features
 Interactive Map: The app integrates Google Maps, allowing users to explore different locations with ease. They can zoom in and out, drag the map, and switch between different map views to get a better understanding of the geography and layout of their desired destinations.
